@@ -21,6 +21,7 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
+    "src",
+    "src/component" // Add the correct path to the "include" array
   ]
 }
